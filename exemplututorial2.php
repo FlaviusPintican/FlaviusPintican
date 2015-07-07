@@ -19,6 +19,7 @@ a {text-decoration: none;}
 </style>
 <a href="http://www.w3schools.com">This is a link</a> <br><br>
 <img src="http://localhost:8080/internship/ex.jpg" width="104" height="142">
+<br>
 
 </body>
 </html>
